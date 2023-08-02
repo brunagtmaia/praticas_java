@@ -1,0 +1,6 @@
+tudo na mão 
+= swing é para os componente
+= awt é uma biblioteca para eventos, ou seja, ou seja um click 
+ = a classe DoisBotes 
+ = public void nãõ retorna nenhima valor 
+ 
